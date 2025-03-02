@@ -1,2 +1,2 @@
-# Lanchain_series
+# Langchain_series
 Building Langchain Apps 
